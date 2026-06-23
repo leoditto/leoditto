@@ -18,6 +18,12 @@ Now I build AI agents, physics engines, and YouTube content.
 
 ---
 
+**[chromashell](https://github.com/leoditto/chromashell)** — A zero-dependency terminal shader engine in Rust. Wraps your active shell with live visual overlays — 13 effects, fully interactive
+
+<p align="center"><img src="https://raw.githubusercontent.com/leoditto/chromashell/main/demo/fire.gif" width="600" alt="chromashell fire effect"></p>
+
+---
+
 **[Smart Contract Auditor](https://github.com/leoditto/contract_auditor)** — LLM agent that audits Solidity code with tool use and evals
 
 ---
