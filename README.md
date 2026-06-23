@@ -6,7 +6,7 @@ Now I build AI agents, physics engines, and YouTube content.
 
 ---
 
-**[Physics Engine](https://github.com/leoditto/physics_simulation_demo)** — GPU-accelerated 2D sandbox, used for my YouTube shorts
+**[Physics Engine](https://github.com/leoditto/physics_simulation_demo)** — GPU-accelerated 2D sandbox, used for my [YouTube shorts](https://www.youtube.com/@revectora/shorts)
 
 <p align="center"><img src="https://raw.githubusercontent.com/leoditto/physics_simulation_demo/master/screenshot/preview.gif" width="600" alt="Physics Engine Preview"></p>
 
