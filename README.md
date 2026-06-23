@@ -14,7 +14,7 @@ Now I build AI agents, physics engines, and YouTube content.
 
 **[Multi-Agent Code Reviewer](https://github.com/leoditto/code_reviewer)** — 4 parallel specialist agents + lead synthesis with conflict resolution and live SSE progress
 
-<p align="center"><img src="https://raw.githubusercontent.com/leoditto/code_reviewer/master/docs/progress_demo.gif" width="400" alt="Code Reviewer Demo"></p>
+<p align="center"><img src="https://mermaid.ink/img/Z3JhcGggVEQKICAgIEFbVXNlciBzdWJtaXRzIGNvZGVdIC0tPiBCe2FzeW5jaW8uZ2F0aGVyfQogICAgQiAtLT4gQ1tTZWN1cml0eSBBZ2VudF0KICAgIEIgLS0-IERbUGVyZm9ybWFuY2UgQWdlbnRdCiAgICBCIC0tPiBFW01haW50YWluYWJpbGl0eSBBZ2VudF0KICAgIEIgLS0-IEZbQnVnIERldGVjdGlvbiBBZ2VudF0KICAgIEMgLS0-IEdbTGVhZCBBZ2VudF0KICAgIEQgLS0-IEcKICAgIEUgLS0-IEcKICAgIEYgLS0-IEcKICAgIEcgLS0-IEhbRmluYWwgQ29kZVJldmlld10=?theme=dark" width="500" alt="Code Reviewer Architecture"></p>
 
 ---
 
@@ -46,4 +46,6 @@ Now I build AI agents, physics engines, and YouTube content.
 
 ---
 
-**[URL Shortener](https://github.com/leoditto/url-shortener)** — Go + Postgres + Redis with JWT auth and rate limiting
+**[URL Shortener](https://github.com/leoditto/url-shortener)** — Go + Postgres + Redis with JWT auth, rate limiting, and Docker Compose deployment
+
+<p align="center"><img src="https://mermaid.ink/img/Z3JhcGggTFIKICAgIEFbQ2xpZW50XSAtLT4gQltSYXRlIExpbWl0ZXJdCiAgICBCIC0tPiBDW0F1dGggLyBKV1RdCiAgICBDIC0tPiBEW0dvIEFQSSBTZXJ2ZXJdCiAgICBEIC0tPiBFWyhSZWRpcyBDYWNoZSldCiAgICBEIC0tPiBGWyhQb3N0Z3JlU1FMKV0KICAgIEYgLS0-IEU=?theme=dark" width="500" alt="URL Shortener Architecture"></p>
