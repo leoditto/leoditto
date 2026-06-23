@@ -14,7 +14,7 @@ Now I build AI agents, physics engines, and YouTube content.
 
 **[Multi-Agent Code Reviewer](https://github.com/leoditto/code_reviewer)** — 4 parallel specialist agents + lead synthesis with conflict resolution and live SSE progress
 
-<img src="https://raw.githubusercontent.com/leoditto/code_reviewer/master/docs/progress_demo.gif" width="600" alt="Code Reviewer Demo">
+<img src="https://raw.githubusercontent.com/leoditto/code_reviewer/master/docs/progress_demo.gif" width="400" alt="Code Reviewer Demo">
 
 ---
 
@@ -24,13 +24,13 @@ Now I build AI agents, physics engines, and YouTube content.
 
 **[Competitive Intel Agent](https://github.com/leoditto/competitive_intel_agent)** — AI-powered company research with structured outputs
 
-<img src="https://raw.githubusercontent.com/leoditto/competitive_intel_agent/main/screenshots/report_top.png" width="600" alt="Intel Agent Report">
+<img src="https://raw.githubusercontent.com/leoditto/competitive_intel_agent/main/screenshots/report_top.png" width="400" alt="Intel Agent Report">
 
 ---
 
 **[Markdown Viewer](https://github.com/leoditto/markdown-viewer)** — Chrome extension for rendering Markdown with syntax highlighting, dark mode, and live editor
 
-<img src="https://raw.githubusercontent.com/leoditto/markdown-viewer/main/screenshot.png" width="600" alt="Markdown Viewer Screenshot">
+<img src="https://raw.githubusercontent.com/leoditto/markdown-viewer/main/screenshot.png" width="400" alt="Markdown Viewer Screenshot">
 
 ---
 
