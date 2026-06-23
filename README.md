@@ -28,6 +28,12 @@ Now I build AI agents, physics engines, and YouTube content.
 
 ---
 
+**[Crypto Price Tracker](https://github.com/leoditto/crypto-price-tracker)** — Chrome extension for tracking crypto prices with real-time alerts and 24h sparkline charts
+
+<p align="center"><img src="https://raw.githubusercontent.com/leoditto/crypto-price-tracker/main/screenshot.png" width="300" alt="Crypto Price Tracker Screenshot"></p>
+
+---
+
 **[Markdown Viewer](https://github.com/leoditto/markdown-viewer)** — Chrome extension for rendering Markdown with syntax highlighting, dark mode, and live editor
 
 <p align="center"><img src="https://raw.githubusercontent.com/leoditto/markdown-viewer/main/screenshot.png" width="400" alt="Markdown Viewer Screenshot"></p>
